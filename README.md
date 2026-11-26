@@ -1,45 +1,49 @@
 <div align="center">
 
-# Hi, I'm Vdtry 👋
+# Vdtry
 
-### Software Developer | Backend · Distributed Systems · DevOps
+### Backend & Platform Engineering · Distributed Systems · DevOps
 
-I build and explore software systems across backend development, microservices, cloud infrastructure, and blockchain. I enjoy turning ideas into practical projects and continuously learning better ways to design reliable software.
+Building practical software systems and learning how to make them reliable, scalable, and maintainable.
 
-[GitHub Profile](https://github.com/Vdtry-06) · [Explore my repositories](https://github.com/Vdtry-06?tab=repositories)
+[Projects](#selected-projects) · [Focus areas](#focus-areas) · [Connect](#connect)
 
 </div>
 
 ---
 
-## About me
+## About
 
-- 💻 Interested in backend engineering and scalable system design
-- 🧩 Exploring microservices, high availability, and clean architecture
-- ⚙️ Building experience with deployment, automation, and monitoring
-- 🌱 Always learning and improving through hands-on projects
+I’m a software developer interested in backend engineering, system design, and the infrastructure that helps applications run reliably. I learn by building: from service-oriented applications to deployment, monitoring, and blockchain experiments.
 
-## Featured projects
+- Design and build backend systems
+- Explore microservices, high availability, and clean architecture
+- Practice deployment automation and observability
+- Keep learning through hands-on projects
 
-| Project | Overview |
+## Selected projects
+
+| Project | What it explores |
 |---|---|
-| [Microservice Online Judge](https://github.com/Vdtry-06/microservice-online-judge) | A system-design project focused on an online judge platform. |
-| [High Availability](https://github.com/Vdtry-06/high-availability) | Exploring high-availability system design and implementation. |
-| [Monitoring & Alerting](https://github.com/Vdtry-06/monitoring-alerting) | Monitoring and alerting setup using Prometheus, Loki, and Grafana. |
-| [E-commerce Microservices](https://github.com/Vdtry-06/e_commerce_microservice) | An e-commerce project built around a microservices approach. |
-| [Certificate Ledger](https://github.com/Vdtry-06/certificate-ledger) | A blockchain project for certificate records. |
-| [Clean Architecture Go](https://github.com/Vdtry-06/clean-architecture-go-ent) | A Go project exploring clean architecture. |
+| [Microservice Online Judge](https://github.com/Vdtry-06/microservice-online-judge) | System design for an online judge platform |
+| [High Availability](https://github.com/Vdtry-06/high-availability) | High-availability system design and implementation |
+| [Monitoring & Alerting](https://github.com/Vdtry-06/monitoring-alerting) | Observability with Prometheus, Loki, and Grafana |
+| [E-commerce Microservices](https://github.com/Vdtry-06/e_commerce_microservice) | E-commerce built with a microservices approach |
+| [Clean Architecture Go](https://github.com/Vdtry-06/clean-architecture-go-ent) | Applying clean architecture concepts in Go |
+| [Certificate Ledger](https://github.com/Vdtry-06/certificate-ledger) | A blockchain-based certificate records project |
 
-## Areas of interest
+## Focus areas
 
-`Backend Development` · `Microservices` · `System Design` · `Go` · `DevOps` · `Monitoring` · `Blockchain`
+`Backend Engineering` · `Go` · `Microservices` · `System Design` · `High Availability` · `DevOps` · `Observability` · `Blockchain`
 
-## Let's connect
+## Connect
 
-Feel free to explore my repositories or reach out through [GitHub](https://github.com/Vdtry-06).
+Explore more of my work in the [repositories](https://github.com/Vdtry-06?tab=repositories), or connect with me here on [GitHub](https://github.com/Vdtry-06).
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by!</sub>
+
+*Thanks for visiting — feel free to explore my projects.*
+
 </div>
